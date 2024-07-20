@@ -1,0 +1,3 @@
+[submodule "exams"]
+	path = exams
+	url = https://github.com/hansu2022/InfiniLM
